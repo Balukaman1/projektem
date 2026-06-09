@@ -83,7 +83,7 @@ a, a:hover,  a:active {
     margin: 7px;
     width: calc(100% - 14px);
     height: calc(100% - 14px);
-    background: url('img/balu.jpg');
+    background: url('balu.jpg');
     background-size: cover;
     background-position: 50% 50%;
     background-repeat: no-repeat;
